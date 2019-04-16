@@ -1,0 +1,52 @@
+@charset "utf-8";
+Texto {
+	font-family: Tahoma, Geneva, sans-serif;
+}
+.Texto {
+	font-family: Tahoma, Geneva, sans-serif;
+	color: #666;
+	text-decoration: blink;
+	font-weight: bold;
+}
+.Texto2 {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: small;
+	color: #999;
+	font-weight: normal;
+	font-style: normal;
+}
+.Texto3 {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: x-small;
+	color: #333;
+	font-style: normal;
+	font-weight: bold;
+}
+.Texto3_I {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: large;
+	color: #333;
+	font-style: normal;
+	font-weight: bold;
+}
+.Texto4 {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: x-small;
+	color: #666;
+	font-style: normal;
+	font-weight: bold;
+}
+.Texto5 {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: x-small;
+	color: #999;
+	font-style: normal;
+	font-weight: bold;
+}
+.ALERTA {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: small;
+	color: #C00;
+	font-style: normal;
+	font-weight: bold;
+}

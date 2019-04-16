@@ -1,0 +1,21 @@
+﻿use fe;
+
+delete from rng_articular;
+delete from prueba_funcional;
+delete from palpacion_ek;
+delete from inspeccion_ek;
+delete from dolor_ek ;
+delete from fza_muscular;
+delete from acor_muscular;
+delete from en_reflejo;
+delete from en_miotoma ;
+delete from en_dermatoma;
+delete from aa_protesis;
+delete from aa_cirugia;
+delete from eva_postural;
+delete from tratamiento ;
+delete from resultado_examen;
+delete from aa_examen ;
+delete from ana_actual ;
+delete from eva_kine ;
+delete from eva_neuro ;

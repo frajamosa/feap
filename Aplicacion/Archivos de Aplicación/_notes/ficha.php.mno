@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:RUT_K;datatype:string,name:NOMBRE_K;datatype:string,name:APELLIDO_K;datatype:string,name:TELEFONO_K;datatype:string" />
+	<infoitem key="UD_tipo_cirugia" value="name:ID_CIRUGIA;datatype:int,name:DESC_CIRUGIA;datatype:string" />
+	<infoitem key="UD_ar_cirugia" value="name:ID_ANA_REMOTA;datatype:int,name:ID_CIRUGIA;datatype:int" />
+	<infoitem key="UD_ana_remota" value="name:ID_ANA_REMOTA;datatype:int" />
+	<infoitem key="UD_cirugias_paciente" value="name:desc_cirugia;datatype:string" />
+	<infoitem key="UD_paciente" value="name:RUT_PAC;datatype:string,name:NOMBRE_PAC;datatype:string,name:APELLIDO_PAC;datatype:string,name:DIRECCION_PAC;datatype:string,name:TELEFONO1_PAC;datatype:string,name:TELEFONO2_PAC;datatype:string,name:F_NAC_PAC;datatype:date" />
+	<infoitem key="UD_kinesiologo" value="name:RUT_K;datatype:string,name:NOMBRE_K;datatype:string,name:APELLIDO_K;datatype:string,name:TELEFONO_K;datatype:string" />
+	<infoitem key="UD_internista" value="name:RUT_INT;datatype:string,name:NOMBRE_INT;datatype:string,name:APELLIDO_INT;datatype:string,name:TELEFONO_INT;datatype:string" />
+	<infoitem key="UD_Paciente" value="name:RUT_PAC;datatype:string,name:NOMBRE_PAC;datatype:string,name:APELLIDO_PAC;datatype:string,name:DIRECCION_PAC;datatype:string,name:TELEFONO1_PAC;datatype:string,name:TELEFONO2_PAC;datatype:string,name:F_NAC_PAC;datatype:date" />
+	<infoitem key="UD_Kinesiologo" value="name:RUT_K;datatype:string,name:NOMBRE_K;datatype:string,name:APELLIDO_K;datatype:string,name:TELEFONO_K;datatype:string" />
+	<infoitem key="UD_Internista" value="name:RUT_INT;datatype:string,name:NOMBRE_INT;datatype:string,name:APELLIDO_INT;datatype:string,name:TELEFONO_INT;datatype:string" />
+	<infoitem key="UD_Ana_Remota" value="name:ID_ANA_REMOTA;datatype:int,name:RUT_PAC;datatype:string" />
+	<infoitem key="UD_Paciente2" value="name:RUT_PAC;datatype:string,name:NOMBRE_PAC;datatype:string,name:APELLIDO_PAC;datatype:string,name:DIRECCION_PAC;datatype:string,name:TELEFONO1_PAC;datatype:string,name:TELEFONO2_PAC;datatype:string,name:F_NAC_PAC;datatype:date" />
+	<infoitem key="UD_AnaRemotaPaciente" value="name:ID_ANA_REMOTA;datatype:int" />
+</info>

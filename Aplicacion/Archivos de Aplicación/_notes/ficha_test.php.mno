@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_tipo_vicio" value="name:ID_VICIO;datatype:int,name:DESC_VICIO;datatype:string" />
+</info>
